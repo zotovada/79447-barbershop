@@ -1,0 +1,16 @@
+﻿body {
+  font-family: "PT Sans Narrow";
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+  text-transform: uppercase;
+}
+h1, h2 {
+  font-family: "PT Sans Narrow";
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 36px;
+  color: #000000;
+  text-transform: uppercase;
+}
